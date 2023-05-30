@@ -103,7 +103,6 @@ figcaption{
 	padding-bottom: 12px;
 }
 
-
 .borde {
 	border: medium solid #900;
 }
@@ -141,4 +140,9 @@ p1{
 	width: 350PX;
 	border: 1PX solid #49056B;
 	text-align: justify;
+}
+p2 {
+    color: #FD059F;
+    text-decoration: underline;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
 }
